@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaikm247
 - 👀 I’m interested in Full stack development.
-- 🌱 I’m currently learning DSA with python and MERN stack development .
+- 🌱 I’m currently learning DSA with java and MERN stack development .
 
 
 
